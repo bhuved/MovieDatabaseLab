@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\MovieDatabaseLab\bin\Debug\net8.0\MovieDatabaseLab.exe
+C:\Users\vedaa\source\repos\MovieDatabaseLab\bin\Debug\net8.0\MovieDatabaseLab.deps.json
+C:\Users\vedaa\source\repos\MovieDatabaseLab\bin\Debug\net8.0\MovieDatabaseLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\MovieDatabaseLab\bin\Debug\net8.0\MovieDatabaseLab.dll
+C:\Users\vedaa\source\repos\MovieDatabaseLab\bin\Debug\net8.0\MovieDatabaseLab.pdb
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.dll
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\refint\MovieDatabaseLab.dll
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.pdb
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\MovieDatabaseLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\MovieDatabaseLab\obj\Debug\net8.0\ref\MovieDatabaseLab.dll
